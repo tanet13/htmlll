@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "kanit";
+    src: url("./Kanit/Kanit-Regular.ttf");
+}
+
+body{
+    background-color: rgb(164, 204, 243);
+    font-family: "Kanit"
+}
+
+#register{
+    font-size: 25px;
+    color: blue;
+    font-weight: 800;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #9c9b9b8a;
+    margin-left: 20px;
+    border: 1px blue solid;
+}
+
+.form{
+    border: 0;
+}
+
+.header-form{
+    font-weight: 800;
+}
